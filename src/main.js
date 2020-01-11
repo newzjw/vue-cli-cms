@@ -9,12 +9,12 @@ import 'styles/reset.css'
 import 'styles/border.css'
 // 导入 MUI 的样式
 import mui from './lib/mui/js/mui.min.js'
-import './lib/mui/css/mui.min.css'
+import './lib/mui/css/mui.css'
 
 // 导入扩展图标样式
 import './lib/mui/css/icons-extra.css'
 // 导入 MUI 的样式
-import '@/lib/mui/css/mui.min.css'
+import '@/lib/mui/css/mui.css'
 import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
 // 导入格式化时间的插件 需要下载cnpm i moment -S
